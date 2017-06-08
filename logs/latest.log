@@ -220,3 +220,6 @@ java.lang.NullPointerException
 [13:08:26] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderStateModel, func_188186_a, a] Descriptor (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/client/renderer/VertexBuffer;Lnet/minecraft/world/World;Z)Z / (Lco;Latl;Lbpy;Lajs;Z)Z)
 [13:08:26] [Client thread/INFO]: [Quark ASM] Located Method, patching...
 [13:08:26] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:43] [Client thread/INFO]: Stopping!
+[13:08:43] [Client thread/INFO]: SoundSystem shutting down...
+[13:08:44] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
