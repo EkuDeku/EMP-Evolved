@@ -1,0 +1,222 @@
+[13:08:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:08:01] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:08:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:08:01] [main/INFO]: Forge Mod Loader version 13.20.0.2309 for Minecraft 1.11.2 loading
+[13:08:01] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Users\Ekuman\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_25
+[13:08:01] [main/INFO]: [AstralCore] Initialized.
+[13:08:01] [main/WARN]: The coremod team.chisel.common.asm.ChiselCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod com.endertech.minecraft.forge.coremod.DummyPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/WARN]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:08:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:08:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:08:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:08:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:08:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:03] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:08:04] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:08:04] [main/INFO]: [AstralTransformer] Loading patches...
+[13:08:04] [main/INFO]: [AstralTransformer] Initialized! Loaded 6 class patches!
+[13:08:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:05] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.world.World
+[13:08:05] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.world.World
+[13:08:05] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.item.ItemBlock
+[13:08:05] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.network.NetHandlerPlayServer
+[13:08:05] [main/INFO]: [ChunkBlockTransformer] Hook registered for net.minecraft.world.chunk.Chunk
+[13:08:05] [main/INFO]: [MalisisRendererTransformer] Hook registered for net.minecraft.client.renderer.BlockRendererDispatcher
+[13:08:05] [main/INFO]: [MalisisRendererTransformer] Hook registered for net.minecraft.client.renderer.RenderItem
+[13:08:05] [main/INFO]: [MalisisRendererTransformer] Hook registered for net.minecraft.client.renderer.BlockModelShapes
+[13:08:05] [main/INFO]: [TextureMapTransformer] Hook registered for net.minecraft.client.renderer.texture.TextureMap
+[13:08:05] [main/INFO]: [ClientNotifTransformer] Hook registered for net.minecraft.world.World
+[13:08:05] [main/INFO]: [ClientNotifTransformer] Hook registered for net.minecraft.world.WorldServer
+[13:08:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:08:05] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:08:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:08:05] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:08:05] [main/INFO]: [AstralTransformer] Transforming bes : net.minecraft.client.Minecraft with 1 patches!
+[13:08:05] [main/INFO]: [AstralTransformer] Applied patch PATCHKEYBOARDEVENT
+[13:08:05] [main/INFO]: [AstralTransformer] Transforming sw : net.minecraft.entity.EntityLivingBase with 1 patches!
+[13:08:05] [main/INFO]: [AstralTransformer] Applied patch PATCHKNOCKBACKEVENT
+[13:08:05] [main/INFO]: Found hooks for net.minecraft.world.World (ajs)
+[13:08:05] [main/INFO]: Found hooks for net.minecraft.world.World (ajs)
+[13:08:06] [Client thread/INFO]: Found hooks for net.minecraft.world.WorldServer (lw)
+[13:08:06] [Client thread/INFO]: Setting user: Eku
+[13:08:06] [Client thread/INFO]: [STDOUT]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[13:08:06] [Client thread/INFO]: [STDOUT]: Transforming net.minecraft.block.Block Finished.
+[13:08:06] [Client thread/INFO]: Found hooks for net.minecraft.item.ItemBlock (adv)
+[13:08:06] [Client thread/INFO]: [Quark ASM] Transforming BlockPistonBase
+[13:08:06] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [doMove, func_176319_a, a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Lajs;Lco;Lcv;Z)Z)
+[13:08:06] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:06] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:07] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [canPush, func_185646_a, a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Latl;Lajs;Lco;Lcv;Z)Z)
+[13:08:07] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:07] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:07] [Client thread/INFO]: [AstralTransformer] Transforming afj : net.minecraft.item.ItemStack with 1 patches!
+[13:08:07] [Client thread/INFO]: [AstralTransformer] Applied patch PATCHMODIFYATTRIBUTES
+[13:08:08] [Client thread/INFO]: [Quark ASM] Transforming TileEntityPiston
+[13:08:08] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f, i] Descriptor ()V / ()V)
+[13:08:08] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:08] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:08] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [update, func_73660_a, F_] Descriptor ()V / ()V)
+[13:08:08] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:08] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:09] [Client thread/INFO]: [AstralTransformer] Transforming amo : net.minecraft.block.BlockWorkbench with 1 patches!
+[13:08:09] [Client thread/INFO]: [AstralTransformer] Applied patch CRAFTINGTABLEFIX
+[13:08:10] [Client thread/INFO]: [Quark ASM] Transforming EntityBoat
+[13:08:10] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [attackEntityFrom, func_76986_a, a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z / (Lry;F)Z)
+[13:08:10] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:10] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:10] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [onUpdate, func_70071_h_, A_] Descriptor ()V / ()V)
+[13:08:10] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:10] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:12] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:08:16] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[13:08:16] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 282806688 bytes (269 MB) / 786956288 bytes (750 MB) up to 7635730432 bytes (7282 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8192m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.62+beta.89.jar)
+  invtweaks.forge.asm.ContainerTransformer
+MalisisCorePlugin (malisiscore-1.11.2-5.2.0.jar)
+  net.malisis.core.util.chunkcollision.ChunkCollisionTransformer
+  net.malisis.core.util.chunkblock.ChunkBlockTransformer
+  net.malisis.core.renderer.transformer.MalisisRendererTransformer
+  net.malisis.core.renderer.icon.asm.TextureMapTransformer
+  net.malisis.core.util.clientnotif.ClientNotifTransformer
+ChiselCorePlugin (Chisel-MC1.11.2-0.0.10.14.jar)
+  team.chisel.common.asm.ChiselTransformer
+CCLCorePlugin (CodeChickenLib-1.11.2-2.6.0.254-universal.jar)
+  codechicken.lib.asm.ClassHierarchyManager
+  codechicken.lib.asm.CCL_ASMTransformer
+IvToolkit (IvToolkit-1.3.3.jar)
+  
+LoadingPlugin (Quark-r1.2-92.jar)
+  vazkii.quark.base.asm.ClassTransformer
+RebornCoreASM (RebornCore-1.11.2-2.16.1.115-universal.jar)
+  reborncore.mixin.transformer.MixinTransformer
+AstralCore (astralsorcery-1.4.1.jar)
+  
+DummyPlugin (ForgeEndertech-1.11.2-2.1.2.0-build.0065.jar)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 382.05' Renderer: 'GeForce GTX 1060 6GB/PCIe/SSE2'
+[13:08:16] [Client thread/INFO]: MinecraftForge v13.20.0.2309 Initialized
+[13:08:16] [Client thread/INFO]: Replaced 232 ore recipes
+[13:08:17] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[13:08:17] [Client thread/INFO]: Searching C:\Users\Ekuman\Documents\Curse\Minecraft\Instances\EMP Evolved\mods for mods
+[13:08:18] [Thread-5/INFO]: Using sync timing. 200 frames of Display.update took 220783319 nanos
+[13:08:20] [Client thread/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.0.254
+[13:08:20] [Client thread/INFO]: Mod ccl-entityhook is missing the required element 'name'. Substituting ccl-entityhook
+[13:08:20] [Client thread/WARN]: Mod ccl-entityhook is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[13:08:20] [Client thread/WARN]: Mod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.3.20
+[13:08:21] [Client thread/WARN]: Mod enderstorage is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[13:08:21] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.11.2-7.0.19.803
+[13:08:23] [Client thread/INFO]: Forge Mod Loader has identified 73 mods to load
+[13:08:23] [Client thread/INFO]: Found mod(s) [notenoughwands] containing declared API package cofh.api.energy (owned by cofhapi) without associated API reference
+[13:08:23] [Client thread/ERROR]: The mod immersiveengineering does not wish to run in Minecraft version Minecraft 1.11.2. You will have to remove it to play.
+[13:08:23] [Client thread/ERROR]: Wrong Minecraft version for immersiveengineering
+[13:08:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Chimneys, FMLFileResourcePack:Additional Banners, FMLFileResourcePack:Animania, FMLFileResourcePack:Astral Sorcery, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Baubles, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Bottled Milk, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:Crafttweaker, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:Disenchanter, FMLFileResourcePack:Drawers & Bits, FMLFileResourcePack:Earthworks, FMLFileResourcePack:Embers, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Fairy Lights, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Flat Colored Blocks, FMLFileResourcePack:Forge Endertech, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Grappling hook mod, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Waila, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Petroleum, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough HarvestCraft, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Dimensions, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:Lore Expansion, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:MalisisDoors, FMLFileResourcePack:Mantle, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:Natura, FMLFileResourcePack:Not Enough Wands, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Quark, FMLFileResourcePack:Reborn Core, FMLFileResourcePack:reborncore-MCMultiPart, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Refined Storage, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Roots 2, FMLFileResourcePack:Steve's Carts 2, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Storage Drawers Extras, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Glazed Terracotta for 1.11.2, FMLFileResourcePack:Totemic, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:What Are We Looking At
+[13:08:23] [Client thread/WARN]: There were errors previously. Not beginning mod initialization phase
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/tock4.ogg does not exist, cannot add it to event bibliocraft:tock
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/dieselgenerator.ogg does not exist, cannot add it to event immersiveengineering:dieselgenerator
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/metalpresspiston.ogg does not exist, cannot add it to event immersiveengineering:metalpresspiston
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/metalpresssmash.ogg does not exist, cannot add it to event immersiveengineering:metalpresssmash
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/birthdayparty.ogg does not exist, cannot add it to event immersiveengineering:birthdayparty
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/revolverfire.ogg does not exist, cannot add it to event immersiveengineering:revolverfire
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/chargefast.ogg does not exist, cannot add it to event immersiveengineering:chargefast
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/chargeslow.ogg does not exist, cannot add it to event immersiveengineering:chargeslow
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/railgunfire.ogg does not exist, cannot add it to event immersiveengineering:railgunfire
+[13:08:24] [Client thread/WARN]: File immersiveengineering:sounds/direswitch.ogg does not exist, cannot add it to event immersiveengineering:direswitch
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/gearswitch.ogg does not exist, cannot add it to event stevescarts:gearswitch
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/win.ogg does not exist, cannot add it to event stevescarts:win
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/boop1.ogg does not exist, cannot add it to event stevescarts:boop
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/boop2.ogg does not exist, cannot add it to event stevescarts:boop
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/boop3.ogg does not exist, cannot add it to event stevescarts:boop
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/gameover.ogg does not exist, cannot add it to event stevescarts:gameover
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/1lines.ogg does not exist, cannot add it to event stevescarts:1lines
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/2lines.ogg does not exist, cannot add it to event stevescarts:2lines
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/3lines.ogg does not exist, cannot add it to event stevescarts:3lines
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/4lines.ogg does not exist, cannot add it to event stevescarts:4lines
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/highscore.ogg does not exist, cannot add it to event stevescarts:highscore
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/hit.ogg does not exist, cannot add it to event stevescarts:hit
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/click.ogg does not exist, cannot add it to event stevescarts:click
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/blobclick.ogg does not exist, cannot add it to event stevescarts:blobclick
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/flagclick.ogg does not exist, cannot add it to event stevescarts:flagclick
+[13:08:24] [Client thread/WARN]: File minecraft:sounds/goodjob.ogg does not exist, cannot add it to event stevescarts:goodjob
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/woodhit1.ogg does not exist, cannot add it to event tconstruct:wood_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/woodhit2.ogg does not exist, cannot add it to event tconstruct:wood_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/woodhit3.ogg does not exist, cannot add it to event tconstruct:wood_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/woodhit4.ogg does not exist, cannot add it to event tconstruct:wood_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/woodhit5.ogg does not exist, cannot add it to event tconstruct:wood_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/stonehit1.ogg does not exist, cannot add it to event tconstruct:stone_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/stonehit2.ogg does not exist, cannot add it to event tconstruct:stone_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/stonehit3.ogg does not exist, cannot add it to event tconstruct:stone_hit
+[13:08:24] [Client thread/WARN]: File tconstruct:sounds/crossbowreload.ogg does not exist, cannot add it to event tconstruct:crossbow_reload
+[13:08:24] [Client thread/WARN]: Invalid sounds.json
+java.lang.NullPointerException
+	at net.minecraft.client.audio.SoundHandler.func_110549_a(SourceFile:82) [ccs.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:122) [cae.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:447) [bes.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:352) [bes.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[13:08:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:08:25] [Client thread/INFO]: Found hooks for net.minecraft.client.renderer.texture.TextureMap (byy)
+[13:08:25] [Client thread/INFO]: Found hooks for net.minecraft.client.renderer.BlockModelShapes (bqz)
+[13:08:25] [Client thread/INFO]: [STDOUT]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[13:08:25] [Client thread/INFO]: [STDOUT]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[13:08:25] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[13:08:25] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:08:25] [Thread-7/INFO]: OpenAL initialized.
+[13:08:25] [Client thread/INFO]: [Quark ASM] Transforming RenderItem
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderItem, func_180454_a, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V / (Lafj;Lcbh;)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderEffect, func_180451_a, a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V / (Lcbh;)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Client thread/INFO]: Found hooks for net.minecraft.client.renderer.RenderItem (bvh)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Transforming ModelBiped
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [setRotationAngles, func_78087_a, a] Descriptor (FFFFFFLnet/minecraft/entity/Entity;)V / (FFFFFFLsn;)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Client thread/INFO]: [Quark ASM] Transforming LayerArmorBase
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderArmorLayer, func_188361_a, a] Descriptor (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLnet/minecraft/inventory/EntityEquipmentSlot;)V / (Lsw;FFFFFFFLss;)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderEnchantedGlint, func_188364_a, a] Descriptor (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/client/model/ModelBase;FFFFFFF)V / (Lbvl;Lsw;Lblv;FFFFFFF)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Sound Library Loader/INFO]: Sound engine started
+[13:08:25] [Client thread/INFO]: [Quark ASM] Transforming RenderBoat
+[13:08:25] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [doRender, func_188300_b, b] Descriptor (Lnet/minecraft/entity/item/EntityBoat;DDDFF)V / (Labx;DDDFF)V)
+[13:08:25] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:25] [Client thread/INFO]: [Quark ASM] Patch result: true
+[13:08:25] [Client thread/INFO]: Found hooks for net.minecraft.client.renderer.BlockRendererDispatcher (bra)
+[13:08:26] [Client thread/INFO]: [Quark ASM] Transforming TileEntityPistonRenderer
+[13:08:26] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderStateModel, func_188186_a, a] Descriptor (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/client/renderer/VertexBuffer;Lnet/minecraft/world/World;Z)Z / (Lco;Latl;Lbpy;Lajs;Z)Z)
+[13:08:26] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[13:08:26] [Client thread/INFO]: [Quark ASM] Patch result: true
