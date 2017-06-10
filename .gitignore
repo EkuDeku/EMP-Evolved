@@ -1,12 +1,28 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+options\.txt
+minecraftinstance\.json
+BotaniaVars\.dat
+
+asm/
+crash-reports/
+logs/
+saves/
+
+# =========================
+# Operating System Files
+# =========================
+
+# Windows
+# =========================
 
 # Folder config file
 Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
 # Windows Installer files
 *.cab
@@ -16,10 +32,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# =========================
-# Operating System Files
-# =========================
 
 # OSX
 # =========================
